@@ -4,7 +4,7 @@ module.exports = {
     },
     db: {
         host: "localhost",
-        port: "27017",
+        port: 27017,
         dbName: "ricnet_fly",
         user: "",
         password: ""
